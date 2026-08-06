@@ -9,7 +9,7 @@ const targetNumber = Math.floor(Math.random() * 10) + 1;
 let attempts = 0;
 
 
-console.log('=== NUMBER GUESSING GAME === from redita branch on 6th august');
+console.log('=== NUMBER GUESSING GAME === from testing-pull-request-by-webhook branch on 6th august');
 
 console.log('I am thinking of a number between 1 and 10.');
 

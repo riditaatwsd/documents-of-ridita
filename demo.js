@@ -8,6 +8,7 @@ const rl = readline.createInterface({
 const targetNumber = Math.floor(Math.random() * 10) + 1;
 let attempts = 0;
 
+
 console.log('=== NUMBER GUESSING GAME === from Webhooks-test-pull-request on 6th August');
 console.log('I am thinking of a number between 1 and 10.');
 
